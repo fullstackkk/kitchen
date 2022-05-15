@@ -14,5 +14,4 @@
 
 ## How to play site?
 
-- Install WatchSass plugin
 - Run index.html
